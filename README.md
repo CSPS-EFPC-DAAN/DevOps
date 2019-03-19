@@ -1,7 +1,7 @@
 *(le français suit)*
 
 # Welcome to CSPS Digital Academy - Premium
-# Congratulations!
+## Congratulations!
 
 You’ve been selected to participate in the first devops cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
@@ -29,7 +29,7 @@ if you require special accommodation.
 
 In addition to your classes, you will be invited to an additional learning opportunity at least once a month. Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more information. 
 
-Note that **participation for the entire duration of the in-class training is mandatory**.
+**Note that participation for the entire duration of the in-class training is mandatory**.
 
 ## Your Responsibilities
 
@@ -86,7 +86,7 @@ Keep up to date with Canada’s Digital Academy through:
 
 Should you have any questions, please contact us at the Digital Academy.
  
-Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
+**Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.**
 
 ![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
 
@@ -95,7 +95,7 @@ Thank you for participating in the beta cohort of the CSPS Digital Academy - Pre
 *************************
 
 # Bienvenue à l’Académie numérique de l’EFPC — Excellence
-# Félicitations!
+## Félicitations!
 
 Vous avez été choisi pour faire partie des premières cohortes de conception du programme **Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!**
 
@@ -179,7 +179,7 @@ Tenez-vous au courant de l’évolution de l’Académie du numérique du Canada
 
 Si vous avez des questions, n’hésitez pas à communiquer avec nous à l’Académie du numérique.
 
-Merci d’avoir choisi l’École de la fonction publique du Canada! Nous nous réjouissons de vous rencontrer prochainement.
+**Merci d’avoir choisi l’École de la fonction publique du Canada! Nous nous réjouissons de vous rencontrer prochainement.**
 
 ![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
 
