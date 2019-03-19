@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first devops cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
-![Welcome on board weclome mat.](https://wiki.gccollab.ca/images/0/00/Dock-feet-footwear-128299.jpg)
+![Welcome on board weclome mat.](https://wiki.gccollab.ca/images/7/71/Designers-desk-with-coffee-wireframes_4460x4460_%281%29.jpg)
 
 ## First Day of Class
 
@@ -31,7 +31,6 @@ In addition to your classes, you will be invited to an additional learning oppor
 
 Note that **participation for the entire duration of the in-class training is mandatory**.
 
-*************************
 ## Your Responsibilities
 
 
@@ -44,9 +43,7 @@ Throughout your Premium experience, you will access:
     **NOTE**: You will recieve a few emails on the week of March 25th with access to Slack and GitHub along with support videos to get you started.
 
 
-***************** 
-
-# For Your Action
+## For Your Action
 
 We have a few last questions before your Digital Academy experience begins:
  
@@ -57,7 +54,7 @@ We have a few last questions before your Digital Academy experience begins:
 
 **Please send your learner survey, consent form, and advise us of any allergies by March 28th to <csps.premiumdigitalacademy-excellenceacademiquedunumerique.efpc@canada.ca>.**
 
-*****************
+
 ## Preparatory Course Materials and Assignments
 
 You are expected to do  preparatory learning prior to each class. Preparatory materials and other assignments will be available in the [Digital Academy Premium DevOps repository](https://github.com/CSPS-EFPC-DAAN/DevOps).
@@ -71,11 +68,11 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 |5| CI/CD & Tools     |      |
 
 
-### Practicum
+## Practicum
 The main goal of the practicum is to provide you with an opportunity to experience and demonstrate what you have learned through the program as either a Premium  participant. You will do so by prototyping solutions to real-life problems, using a design thinking approach and Agile techniques, with support from coaches and facilitators. In addition to solidifying your learning and generating concrete solutions, we also hope to create a community of Digital Leaders and Practitioners who will spread their new knowledge, skills and digital mindset across government.
 
 
-# Stay in Touch
+## Stay in Touch
 
 Keep up to date with Canada’s Digital Academy through:
 - [Our Mailing List](http://eepurl.com/dKe2co)
@@ -139,7 +136,7 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 **REMARQUE** : Vous recevrez quelques courriels la semaine du 25 mars avec accès à Slack et GitHub ainsi que des vidéos pour vous aider à démarrer.
 
 Veuillez prendre note qu’il est **obligatoire de participer en classe.**
-# Mesures à prendre
+## Mesures à prendre
 
 Nous avons quelques dernières questions à vous poser avant le début de votre expérience Excellence :
 
@@ -170,7 +167,7 @@ L'objectif principal du stage est de vous donner l'occasion d'expérimenter et d
 
 
 
-# Restez en contact
+## Restez en contact
 
 Tenez-vous au courant de l’évolution de l’Académie du numérique du Canada par l’intermédiaire de :
 - [Notre liste de diffusion](http://eepurl.com/dKe3a6)
