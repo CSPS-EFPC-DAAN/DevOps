@@ -47,7 +47,7 @@ Throughout your Premium experience, you will access:
 
 We have a few last questions before your Digital Academy experience begins:
  
-1. Fill out the [DevOps skills self-assessment survey](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a tool to help your instructors to understand your skills and learning objectives.
+1. Fill out the [DevOps skills self-assessment survey](https://goo.gl/forms/2hBBgDMAAUZKlrwB2), a tool to help your instructors to understand your skills and learning objectives.
 
 2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Please [fill out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
 3. Do you have any allergies (food, environmental, other)? Let us know.
