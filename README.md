@@ -1,5 +1,3 @@
-# DevOps
-
 *(le français suit)*
 
 # Welcome to CSPS Digital Academy - Premium
