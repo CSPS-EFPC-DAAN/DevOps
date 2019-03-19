@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first devops cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
-![Welcome on board weclome mat.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
+![Welcome on board weclome mat.](https://drive.google.com/file/d/1l4snKR4fqlrlOLiu2uvC5lbQSgvHdzWQ/view?usp=sharing)
 
 ## First Day of Class
 
