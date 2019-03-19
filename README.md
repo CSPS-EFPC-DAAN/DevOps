@@ -73,7 +73,7 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 |5| CI/CD & Tools     |      |
 
 
-## Practicum
+### Practicum
 The main goal of the practicum is to provide you with an opportunity to experience and demonstrate what you have learned through the program as either a Premium  participant. You will do so by prototyping solutions to real-life problems, using a design thinking approach and Agile techniques, with support from coaches and facilitators. In addition to solidifying your learning and generating concrete solutions, we also hope to create a community of Digital Leaders and Practitioners who will spread their new knowledge, skills and digital mindset across government.
 
 
