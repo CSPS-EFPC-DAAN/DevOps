@@ -140,7 +140,7 @@ Veuillez prendre note qu’il est **obligatoire de participer en classe.**
 
 Nous avons quelques dernières questions à vous poser avant le début de votre expérience Excellence :
 
-1. Complétez votre [profil d'apprentissage]((https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx)), un guide pour aider vos enseignants et les autres apprenants à comprendre comment vous préférez apprendre et travailler.
+1. Complétez votre [formulaire d'auto-évaluation de compétences](https://github.com/CSPS-EFPC-DAAN/DevOps), un outil pour aider vos enseignants à mieux connaîtres vos compétences et objectifs d'apprentisage. 
 2. Nous prendrons des photos et des vidéos pendant l’expérience Excellence. Certaines photos pourront être utilisées pour les médias sociaux. Si vous y consentez, [veuillez nous le faire savoir en remplissant ce formulaire de consentement](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
 3. Avez-vous des allergies (alimentaires, environnementales ou autres)? Avisez-nous.
 
