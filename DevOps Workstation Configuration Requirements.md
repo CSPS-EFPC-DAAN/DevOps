@@ -16,15 +16,15 @@ Alternatively you can use your own laptop as long as you have full admin rights 
 Contact Cory Dignard to let us know what you plan on doing. Cory.Dignard@canada.ca or on csps-efpc-daan.slack.com.
 
 ## Operating System
-The HP laptops we provide come pre-installed with Windows 10 Pro. You can choose to use this, or re-image with Linux, such as Ubunto (https://www.ubuntu.com/download/desktop). If you provide your own device it can be Linux, Windows or macOS.
+The HP laptops we provide come pre-installed with Windows 10 Pro. You can choose to use this, or re-image with Linux, such as Ubuntu (https://www.ubuntu.com/download/desktop). If you provide your own device it can be Linux, Windows or macOS.
 
 ## Software
 Regardless of your device or OS, you need to have the following software installed
 
 | Software | Windows | Linux | macOS |
-| ------ | ------ | ------ | ------ |
-| item1 | <link> | <link> | <link> |
-| item1 | <link> | <link> | <link> |
-| item1 | <link> | <link> | <link> |
+| ------ | :------: | :------: | :------: |
+| Visual Studio Code | [VS Code](https://code.visualstudio.com/) | [VS Code](https://code.visualstudio.com/) | [VS Code](https://code.visualstudio.com/)|
+| Git | [Git for Windows](https://git-scm.com/download/win) | [Git for linux](https://git-scm.com/download/linux) | [Git for Mac](https://git-scm.com/download/mac) |
+| Docker Community Edition| [Docker CE for Windows](https://docs.docker.com/docker-for-windows/install/) | [Docker CE for Ubuntu](https://docs.docker.com/install/linux/docker-ce/debian/) | [Docker CE for Mac](https://docs.docker.com/docker-for-mac/install/) |
 | item1 | <link> | <link> | <link> |
 | item1 | <link> | <link> | <link> |
