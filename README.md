@@ -52,7 +52,7 @@ We have a few last questions before your Digital Academy experience begins:
 2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Please [fill out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
 
 3. During your nine days of training you will require a laptop on which you will be asked to install a series of software. Digital Academy will be happy to lend you a laptop for the duration of the training or you may choose to bring your own laptop. If you wish to bring your own, please note that it must be an off-network device to which you have full administration rights to install software.
-If you wish to borrow a Digital Academy laptop, please inform [Cory Dignard] at cory.dignard@canada.ca by **March 28th**.
+If you wish to borrow a Digital Academy laptop, please inform Cory Dignard at cory.dignard@canada.ca by **March 28th**.
 
 4. Do you have any allergies (food, environmental, other)? Please let us know.
 
@@ -65,7 +65,7 @@ If you wish to borrow a Digital Academy laptop, please inform [Cory Dignard] at 
 
 You are expected to do  preparatory learning prior to each class. Preparatory materials and other assignments will be available in the [Digital Academy Premium DevOps repository](https://github.com/CSPS-EFPC-DAAN/DevOps).
 
-**Important: Prior to your first class, you must configure your laptop with the required software which you will be using over the next 5 weeks. This assignment is part of your learning experience. Please refer to the [DevOps Workstation Configuration Requirements](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) page for instructions. **
+**Important:** Prior to your first class, you must configure your laptop with the required software which you will be using over the next 5 weeks. This assignment is part of your learning experience. Please refer to the [DevOps Workstation Configuration Requirements](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) page for instructions. 
 
 |Week  | Topic |Pre-course Assignment| Course material|
 | ---- | ----------- |----------- |----------- |
