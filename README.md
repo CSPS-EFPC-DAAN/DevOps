@@ -128,10 +128,10 @@ Vous avez été choisi pour faire partie des premières cohortes de conception d
 
 ## Cours suivants
 
-*Semaine 2 - 10 & 11 avril
-*Semaine 3 - 17 & 18 avril
-*Semaine 4 - 22 & 23 avril
-*Semaine 5 - 1 & 2 mai
+* Semaine 2 - 10 & 11 avril
+* Semaine 3 - 17 & 18 avril
+* Semaine 4 - 22 & 23 avril
+* Semaine 5 - 1 & 2 mai
 
 En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Veuillez consulter [calendrier (en cours) pour plus d'information](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing).
 
