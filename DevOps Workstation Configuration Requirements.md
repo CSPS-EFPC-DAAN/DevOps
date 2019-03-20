@@ -26,5 +26,5 @@ Regardless of your device or OS, you need to have the following software install
 | Visual Studio Code | [VS Code](https://code.visualstudio.com/) | [VS Code](https://code.visualstudio.com/) | [VS Code](https://code.visualstudio.com/)|
 | Git | [Git for Windows](https://git-scm.com/download/win) | [Git for linux](https://git-scm.com/download/linux) | [Git for Mac](https://git-scm.com/download/mac) |
 | Docker Community Edition| [Docker CE for Windows](https://docs.docker.com/docker-for-windows/install/) | [Docker CE for Ubuntu](https://docs.docker.com/install/linux/docker-ce/debian/) | [Docker CE for Mac](https://docs.docker.com/docker-for-mac/install/) |
-| item1 | <link> | <link> | <link> |
-| item1 | <link> | <link> | <link> |
+| Node LTS (10.15.*)| [Instructions for Windows](https://nodejs.org/en/download/package-manager/#windows) | [Instructions for Ubuntu & Debian based distros](https://github.com/nodesource/distributions/blob/master/README.md#debinstall) | [Instructions for macOS](https://nodejs.org/en/download/package-manager/#macos) |
+| Azure CLI | [Instructions for Windows](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest) | [Instructions for Ubuntu & Debian](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest) | [Instructions for macOS](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest) |
