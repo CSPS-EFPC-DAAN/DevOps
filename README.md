@@ -71,11 +71,11 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 
 |Week  | Topic |Pre-course Assignment| Course material|
 | ---- | ----------- |----------- |----------- |
-| 1  | Open Source Software     | 1. [Read this basic overview of open source](https://opensource.dev/)     |
-|2 | Python      |  1. [Read the Python Beginner's Guide Overview](https://wiki.python.org/moin/BeginnersGuide/Overview)     |
-|3 | Azure Cloud     |        |
-|4 | AWS Cloud   | 1. Register for a [free AWS Training account](https://www.aws.training/Account/LogOnOptions).  2.Watch this [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |
-|5| CI/CD & Tools     |      |
+| 1  | Open Source Software     | 1. [Read this basic overview of open source](https://opensource.dev/)     |Coming soon...  
+|2 | Python      |  1. [Read the Python Beginner's Guide Overview](https://wiki.python.org/moin/BeginnersGuide/Overview)     |Coming soon...  
+|3 | Azure Cloud     |  Coming soon...      | Coming soon...  
+|4 | AWS Cloud   | 1. Register for a [free AWS Training account](https://www.aws.training/Account/LogOnOptions).  2.Watch this [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |Coming soon...  
+|5| CI/CD & Tools     |Coming soon...        | Coming soon...  
 
 
 ## Practicum
