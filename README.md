@@ -50,9 +50,10 @@ We have a few last questions before your Digital Academy experience begins:
 1. Fill out the [DevOps skills self-assessment survey](https://goo.gl/forms/2hBBgDMAAUZKlrwB2), a tool to help your instructors to understand your skills and learning objectives.
 
 2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Please [fill out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-3. Do you have any allergies (food, environmental, other)? Let us know.
+3. Do you have any allergies (food, environmental, other)? Please let us know.
+4. Do need any ergonomic equipment during training days? Please let us know.
 
-**Please send your learner survey, consent form, and advise us of any allergies by March 28th to <csps.premiumdigitalacademy-excellenceacademiquedunumerique.efpc@canada.ca>.**
+**Please send your learner survey, consent form, and advise us of any allergies or ergonomic needs by March 28th to <csps.premiumdigitalacademy-excellenceacademiquedunumerique.efpc@canada.ca>.**
 
 
 ## Preparatory Course Materials and Assignments
@@ -69,7 +70,7 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 
 
 ## Practicum
-The practicum will take place Monday, May 6 to Friday, May 24th. The main goal of the practicum is to provide you with an opportunity to experience and demonstrate what you have learned through the program as either a Premium  participant. You will do so by prototyping solutions to real-life problems, using a design thinking approach and Agile techniques, with support from coaches and facilitators. In addition to solidifying your learning and generating concrete solutions, we also hope to create a community of Digital Leaders and Practitioners who will spread their new knowledge, skills and digital mindset across government.
+The practicum will take place Monday, May 6 to Friday, May 24th. The main goal of the practicum is to provide you with an opportunity to experience and demonstrate what you have learned through the program as a Premium  participant. You will do so by prototyping solutions to real-life problems, using a design thinking approach and Agile techniques, with support from coaches and facilitators. In addition to solidifying your learning and generating concrete solutions, we also hope to create a community of Digital Leaders and Practitioners who will spread their new knowledge, skills and digital mindset across government.
 
 
 ## Stay in Touch
@@ -142,9 +143,10 @@ Nous avons quelques dernières questions à vous poser avant le début de votre 
 
 1. Complétez votre [formulaire d'auto-évaluation de compétences](https://github.com/CSPS-EFPC-DAAN/DevOps), un outil pour aider vos enseignants à mieux connaîtres vos compétences et objectifs d'apprentisage. 
 2. Nous prendrons des photos et des vidéos pendant l’expérience Excellence. Certaines photos pourront être utilisées pour les médias sociaux. Si vous y consentez, [veuillez nous le faire savoir en remplissant ce formulaire de consentement](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-3. Avez-vous des allergies (alimentaires, environnementales ou autres)? Avisez-nous.
+3. Avez-vous des allergies (alimentaires, environnementales ou autres)? SVP nous aviser.
+4. Avez-vous besoin d'équipement ergonomique pendant les journées de formation ? N'hésitez pas à nous le faire savoir.
 
-**Veuillez m’envoyer votre manuel de l’apprenant, le formulaire de consentement, et nous aviser de toute allergie d'ici le 28 mars, 2019 à <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca>.**
+**Veuillez m’envoyer votre manuel de l’apprenant, le formulaire de consentement, et nous aviser de toutes allergies ou besoins ergonomiques d'ici le 28 mars, 2019 à <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca>.**
 
 
 ## Matériel de cours préparatoire
