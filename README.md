@@ -50,8 +50,13 @@ We have a few last questions before your Digital Academy experience begins:
 1. Fill out the [DevOps skills self-assessment survey](https://goo.gl/forms/2hBBgDMAAUZKlrwB2), a tool to help your instructors to understand your skills and learning objectives.
 
 2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Please [fill out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-3. Do you have any allergies (food, environmental, other)? Please let us know.
-4. Do need any ergonomic equipment during training days? Please let us know.
+
+3. During your nine days of training you will require a laptop on which you will be asked to install a series of software. Digital Academy will be happy to lend you a laptop for the duration of the training or you may choose to bring your own laptop. If you wish to bring your own, please note that it must be an off-network device to which you have full administration rights to install software.
+If you wish to borrow a Digital Academy laptop, please inform [Cory Dignard](mailto: cory.dignard@canada.ca) by *March 28th*.
+
+4. Do you have any allergies (food, environmental, other)? Please let us know.
+
+5. Do need any ergonomic equipment during training days? Please let us know.
 
 **Please send your learner survey, consent form, and advise us of any allergies or ergonomic needs by March 28th to <csps.premiumdigitalacademy-excellenceacademiquedunumerique.efpc@canada.ca>.**
 
