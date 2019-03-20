@@ -65,8 +65,7 @@ If you wish to borrow a Digital Academy laptop, please inform Cory Dignard at co
 
 You are expected to do  preparatory learning prior to each class. Preparatory materials and other assignments will be available in the [Digital Academy Premium DevOps repository](https://github.com/CSPS-EFPC-DAAN/DevOps).
 
->**Important**:Prior to your first class, you must configure your laptop with the required software which you will be using over the next 5 weeks. This assignment is part of your learning experience.  Please refer to the [DevOps Workstation Configuration Requirements] 
->(https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) page for instructions.
+>**Important**: Prior to your first class, you must configure your laptop with the required software which you will be using over the next 5 weeks. This assignment is part of your learning experience.  Please refer to the [DevOps Workstation Configuration Requirements] (https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) page for instructions.
 
 |Week  | Topic |Pre-course Assignment| Course material|
 | ---- | ----------- |----------- |----------- |
