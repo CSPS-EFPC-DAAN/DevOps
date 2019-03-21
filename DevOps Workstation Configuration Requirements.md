@@ -28,6 +28,8 @@ Regardless of your device or OS, you need to have the following software install
 | Docker Community Edition| [Docker CE for Windows](https://docs.docker.com/docker-for-windows/install/) | [Docker CE for Ubuntu](https://docs.docker.com/install/linux/docker-ce/debian/) | [Docker CE for Mac](https://docs.docker.com/docker-for-mac/install/) |
 | Node LTS (10.15.*)| [Instructions for Windows](https://nodejs.org/en/download/package-manager/#windows) | [Instructions for Ubuntu & Debian based distros](https://github.com/nodesource/distributions/blob/master/README.md#debinstall) | [Instructions for macOS](https://nodejs.org/en/download/package-manager/#macos) |
 | Azure CLI | [Instructions for Windows](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest) | [Instructions for Ubuntu & Debian](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest) | [Instructions for macOS](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest) |
+| Anaconda | [Anaconda Distribution](https://www.anaconda.com/distribution/) | [Anaconda Distribution](https://www.anaconda.com/distribution/) | [Anaconda Distribution](https://www.anaconda.com/distribution/) |
+
 
 The following GitHub repo's from your very own GC colleages have scripts that may be a good place to start to help automate things
 - Linux: https://github.com/esdc-devx/dev-laptop
