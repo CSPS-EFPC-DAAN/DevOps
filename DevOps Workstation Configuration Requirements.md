@@ -1,5 +1,5 @@
 # DevOps Workstation Configuration Requirements
-
+<img align="right" width="300" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg">
 Your mission should you choose to accept it, will be to build an awesome development workstation! You will use this workstation to complete your work as part of the DevOps cohort.
 
 Your fellow students, facilitators and Digital Academy folks are here to help you via the #devops Slack channel (https://csps-efpc-daan.slack.com/messages/CG1DFTBSP)
