@@ -163,17 +163,17 @@ On s'attend à ce que vous fassiez de l'apprentissage préparatoire avant chaque
 
 |Semaine | Sujet|Apprentissage préparatoire | Matériel de cours|
 | ---- | ----------- |----------- |----------- |
-| 1  | Logiciels libres | 1. [Lire cette introduction aux logiciels libres ](https://opensource.dev/)     |
-|2 | Python      |  1. [Lire Python Beginner's Guide Overview](https://wiki.python.org/moin/BeginnersGuide/Overview)     |
-|3 | Azure Cloud     |        |
-|4 | AWS Cloud   | 1. S'inscire pour un  [compte gratuit à AWS Training ](https://www.aws.training/Account/LogOnOptions).  2.Visionner [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |
-|5| CI/CD & Tools     |      |
+| 1  | Logiciels libres | - [Lire cette introduction aux logiciels libres ](https://opensource.dev/)     |À venir...
+|2 | Python      | Lire [Python Beginner's Guide Overview](https://wiki.python.org/moin/BeginnersGuide/Overview)<br/> - [Python Tutorial: Module 1](https://docs.python.org/3/tutorial/appetite.html)<br/> - [Ptython Tutorial Module 2](https://docs.python.org/3/tutorial/interpreter.html)      |À venir...
+|3 | Azure Cloud     |        |À venir...
+|4 | AWS Cloud   |- S'inscire pour un  [compte gratuit à AWS Training ](https://www.aws.training/Account/LogOnOptions). <br/> - Visionner [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |À venir...
+|5| CI/CD & Tools     |      |À venir...
 
 
 
 ## Stage
 
-Le stage aura lieu du lundi 6 mai au vendredi 24 mai. 
+Le stage aura lieu du **lundi 6 mai au vendredi 24 mai**. 
 L'objectif principal du stage est de vous donner l'occasion d'expérimenter et de démontrer ce que vous avez appris grâce au programme en tant que participant Premium. Pour ce faire, vous prototyperez des solutions à des problèmes réels à l'aide d'une approche conceptuelle et de techniques Agiles, avec l'aide de coachs et d'animateurs. En plus de consolider votre apprentissage et de générer des solutions concrètes, nous espérons également créer une communauté de leaders et de praticiens du numérique qui diffuseront leurs nouvelles connaissances, compétences et mentalité numérique à travers le gouvernement.
 
 
