@@ -36,7 +36,7 @@ In addition to your classes, you will be invited to an additional learning oppor
 
 Throughout your Premium experience, you will access:
 - **Slack**, for chatting with your devops cohort, instructors and fellow Premium learners.
-- **GitHub**, for course content, modules and scripts. [Create a GitHub account here](https://github.com/).
+- **GitHub**, for course content, modules and scripts.
 
 - **Google Forms**, for [attendance](https://drive.google.com/open?id=12z7dMCZwEJWcG11uFD-4nsZqQpLGy9SY-XJ2OeRQ2ps) and [learning evaluations](https://drive.google.com/open?id=1iNUvyWef2afdbOmUuDx8tsqTKK2MKcqxrqlad798KsA) to be completed every class.
 
