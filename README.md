@@ -9,7 +9,7 @@ You’ve been selected to participate in the first devops cohorts of the **Canad
 
 ## First Day of Class
 
-* Thursday, April 4th
+* Thursday, April 4th : Open Source Software for Government
 * 9:00 AM - 4:00 PM
 * [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111 Sussex St., 2nd floor
 - **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to travel by taxi or use the various public transport options available. For more information, visit the [OC Transpo](http://www.octranspo.com/?from=splash) and [Société de transport de l’Outaouais (STO)](http://www.sto.ca) sites. 
@@ -22,12 +22,21 @@ if you require special accommodation.
 
 ## Subsequent Classes
 
-* Week 2 - April 10 & 11
-* Week 3 - April 17 & 18
-* Week 4 - April 22 & 23
-* Week 5 - May 1 & 2
+* Week 2 - April 10 & 11: Introduction to Python
+* Week 3 - April 17 & 18: Azure Cloud
+* Week 4 - April 25 & 26: AWS Cloud
+* Week 5 - 
+* Week 5 - May 1 & 2: CI/CD & Tools
 
-In addition to your classes, you will be invited to an additional learning opportunity at least once a month. Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more information. 
+
+In addition to your classes, you will be invited to an additional learning opportunity at least once a month. 
+We encourage you to attend this optional training session on April 29 & 30 : 
+
+**Native Cloud Development**
+
+To register, please [fill out this form](https://forms.gle/8zLsZWpTQL51b1xC6). Seats are limited so act fast!
+
+Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more information. 
 
 **Note that participation for the entire duration of the in-class training is mandatory**.
 
