@@ -30,9 +30,9 @@ if you require special accommodation.
 **Note that participation for the entire duration of the in-class training is mandatory**.
 
 In addition to your classes, you will be invited to an additional learning opportunity at least once a month. 
-We encourage you to attend this optional training session on April 29 & 30 : 
+We encourage you to attend this optional training session : 
 
-#### Native Cloud Development
+#### Native Cloud Development : April 29 & 30
 Learn the fundamentals of Cloud Native Technology with a focus on Kubernetes and the CNCF Ecosystem in this optional 2 day classroom training for Premium learners.
 
 To register, please [fill out this form](https://forms.gle/8zLsZWpTQL51b1xC6). Seats are limited so act fast!
@@ -143,9 +143,9 @@ Vous avez été choisi pour faire partie des premières cohortes de conception d
 * Semaine 5 - 1 & 2 mai: CI/CD & Tools
 **Veuillez prendre note que la présence à tous ces cours est obligatoire.**
 
-En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Nous vous encourageons à vous inscrire à cette formation optionnelle les 29 & 30 avril:
+En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Nous vous encourageons à vous inscrire à cette formation optionnelle
 
-#### Native Cloud Development
+#### Native Cloud Development: 29 & 30 avril
 Learn the fundamentals of Cloud Native Technology with a focus on Kubernetes and the CNCF Ecosystem in this optional 2 day classroom training for Premium learners.
 
 Pour vous inscrire, veuillez [compléter ce formulaire](https://forms.gle/8zLsZWpTQL51b1xC6). Places limitées, n'attendez pas!
