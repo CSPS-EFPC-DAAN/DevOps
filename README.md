@@ -33,9 +33,9 @@ We encourage you to attend this optional training session on April 29 & 30 :
 
 **Native Cloud Development**
 
-To register, please [fill out this form](https://forms.gle/8zLsZWpTQL51b1xC6). Seats are limited so act fast!
+**To register, please [fill out this form](https://forms.gle/8zLsZWpTQL51b1xC6). Seats are limited so act fast!**
 
-Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more information. 
+Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more events to come. 
 
 **Note that participation for the entire duration of the in-class training is mandatory**.
 
