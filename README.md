@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first devops cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
-![Welcome on board weclome mat.](https://wiki.gccollab.ca/images/7/71/Designers-desk-with-coffee-wireframes_4460x4460_%281%29.jpg)
+![Welcome on board weclome mat.](https://wiki.gccollab.ca/images/1/1f/John-schnobrich-520019-unsplash-min.jpg)
 
 ## First Day of Class
 
@@ -110,7 +110,7 @@ Should you have any questions, please contact us at the Digital Academy.
 Vous avez été choisi pour faire partie des premières cohortes de conception du programme **Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!**
 
 
-![desktop with coffee and wireframes.](https://wiki.gccollab.ca/images/7/71/Designers-desk-with-coffee-wireframes_4460x4460_%281%29.jpg)
+![Des doigts qui tapent sur un ordinateur portatif.](https://wiki.gccollab.ca/images/1/1f/John-schnobrich-520019-unsplash-min.jpg)
 
 *************************
 
