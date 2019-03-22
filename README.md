@@ -25,7 +25,6 @@ if you require special accommodation.
 * Week 2 - April 10 & 11: Introduction to Python
 * Week 3 - April 17 & 18: Azure Cloud
 * Week 4 - April 25 & 26: AWS Cloud
-* Week 5 - 
 * Week 5 - May 1 & 2: CI/CD & Tools
 
 
