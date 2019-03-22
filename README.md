@@ -26,7 +26,7 @@ if you require special accommodation.
 * Week 3 - April 17 & 18: Azure Cloud
 * Week 4 - April 25 & 26: AWS Cloud
 * Week 5 - May 1 & 2: CI/CD & Tools
-
+**Note that participation for the entire duration of the in-class training is mandatory**.
 
 In addition to your classes, you will be invited to an additional learning opportunity at least once a month. 
 We encourage you to attend this optional training session on April 29 & 30 : 
@@ -37,7 +37,6 @@ We encourage you to attend this optional training session on April 29 & 30 :
 
 Please review this [evergreen master schedule](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing) for more events to come. 
 
-**Note that participation for the entire duration of the in-class training is mandatory**.
 
 ## Your Responsibilities
 
