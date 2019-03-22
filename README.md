@@ -26,7 +26,6 @@ if you require special accommodation.
 * Week 3 - April 17 & 18: Azure Cloud
 * Week 4 - April 25 & 26: AWS Cloud
 * Week 5 - May 1 & 2: CI/CD & Tools
-
 **Note that participation for the entire duration of the in-class training is mandatory**.
 
 In addition to your classes, you will be invited to an additional learning opportunity at least once a month. 
