@@ -141,6 +141,7 @@ Vous avez été choisi pour faire partie des premières cohortes de conception d
 * Semaine 3 - 17 & 18 avril: Azure Cloud
 * Semaine 4 - 25 & 26 avril:AWS Cloud
 * Semaine 5 - 1 & 2 mai: CI/CD & Tools
+
 **Veuillez prendre note que la présence à tous ces cours est obligatoire.**
 
 En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Nous vous encourageons à vous inscrire à cette formation optionnelle
@@ -183,7 +184,7 @@ On s'attend à ce que vous fassiez de l'apprentissage préparatoire avant chaque
 |2 | Python      | Lire: <br/> - [Python Beginner's Guide Overview](https://wiki.python.org/moin/BeginnersGuide/Overview)<br/> - [Python Tutorial: Module 1](https://docs.python.org/3/tutorial/appetite.html)<br/> - [Ptython Tutorial Module 2](https://docs.python.org/3/tutorial/interpreter.html)      |À venir...
 |3 | Azure Cloud     |        |À venir...
 |4 | AWS Cloud   |- S'inscire pour un  [compte gratuit à AWS Training ](https://www.aws.training/Account/LogOnOptions). <br/> - Visionner [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |À venir...
-|5| CI/CD & Tools     |      |À venir...
+|5| CI/CD & Tools     | - Complétez cette formation en ligne: [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) <br/> - Soumettez-nous votre nom d'utilisateur GitHub dans la chaine DevOps de Slack |À venir...
 
 
 
