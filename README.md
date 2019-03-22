@@ -52,7 +52,7 @@ Throughout your Premium experience, you will access:
     **NOTE**: You will recieve a few emails on the week of March 25th with access to Slack and GitHub along with support videos to get you started.
 
 
-## For Your Action
+## For Your Immediate Action
 
 We have a few last questions before your Digital Academy experience begins:
  
@@ -84,7 +84,7 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 |2 | Python      |  Read: <br/>- [Python Beginner's Guide Overview](https://wiki.python.org/moin/BeginnersGuide/Overview) <br/> - [Python Tutorial: Module 1](https://docs.python.org/3/tutorial/appetite.html)<br/> - [Ptython Tutorial Module 2](https://docs.python.org/3/tutorial/interpreter.html)    |Coming soon...  
 |3 | Azure Cloud     |  Coming soon...      | Coming soon...  
 |4 | AWS Cloud   | - Register for a [free AWS Training account](https://www.aws.training/Account/LogOnOptions). <br/>  - Watch this [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |Coming soon...  
-|5| CI/CD & Tools     | 1. Take the following Course: <br/> [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) <br/> 2. Let us know your GitHub username in the DevOps Slack Channel   | Coming soon...  
+|5| CI/CD & Tools     | 1. Take the following Course: [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) <br/> 2. Let us know your GitHub username in the DevOps Slack Channel   | Coming soon...  
 
 
 ## Practicum
@@ -124,7 +124,7 @@ Vous avez été choisi pour faire partie des premières cohortes de conception d
 *************************
 
 ## Premier cours
-* Jeudi, 4 avril 2019
+* Jeudi, 4 avril 2019 : Open Source Software For Government
 * De 9 h à 16 h
 * [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111, promenade Sussex, 2ième étage
 * **Directions:** Le 111, promenade Sussex offre un stationnement souterrain payant, mais le nombre de places y est limité en raison de travaux de construction. Les places de stationnement dans les rues avoisinantes sont limitées et vous ne pouvez pas y rester pendant plus de trois heures successives. Nous vous encourageons à faire appel à un taxi ou à utiliser les divers moyens de transport public offerts. Pour obtenir de plus amples renseignements, visitez les sites d’[OC Transpo](http://www.octranspo.com/?from=splash) et de la [Société de transport de l’Outaouais (STO)](http://www.sto.ca).
@@ -137,13 +137,20 @@ Vous avez été choisi pour faire partie des premières cohortes de conception d
 
 ## Cours suivants
 
-* Semaine 2 - 10 & 11 avril
-* Semaine 3 - 17 & 18 avril
-* Semaine 4 - 22 & 23 avril
-* Semaine 5 - 1 & 2 mai
+* Semaine 2 - 10 & 11 avril: Introduction to Python
+* Semaine 3 - 17 & 18 avril: Azure Cloud
+* Semaine 4 - 25 & 26 avril:AWS Cloud
+* Semaine 5 - 1 & 2 mai: CI/CD & Tools
+**Veuillez prendre note que la présence à tous ces cours est obligatoire.**
 
-En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Veuillez consulter [calendrier (en cours) pour plus d'information](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing).
+En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Nous vous encourageons à vous inscrire à cette formation optionnelle les 29 & 30 avril:
 
+#### Native Cloud Development
+Learn the fundamentals of Cloud Native Technology with a focus on Kubernetes and the CNCF Ecosystem in this optional 2 day classroom training for Premium learners.
+
+Pour vous inscrire, veuillez [compléter ce formulaire](https://forms.gle/8zLsZWpTQL51b1xC6). Places limitées, n'attendez pas!
+
+Veuillez consulter [calendrier (en cours) pour d'autres évènements à venir](https://docs.google.com/spreadsheets/d/1K5v3KYBZB6R3mG4n2Xyyu94Gh-bQjIhDOzIqrSwHVN8/edit?usp=sharing).
 
 
 ## Vos responsabilités
