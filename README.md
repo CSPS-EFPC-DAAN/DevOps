@@ -32,7 +32,7 @@ if you require special accommodation.
 In addition to your classes, you will be invited to an additional learning opportunity at least once a month. 
 We encourage you to attend this optional training session on April 29 & 30 : 
 
-####Native Cloud Development
+#### Native Cloud Development
 Learn the fundamentals of Cloud Native Technology with a focus on Kubernetes and the CNCF Ecosystem in this optional 2 day classroom training for Premium learners.
 
 **To register, please [fill out this form](https://forms.gle/8zLsZWpTQL51b1xC6). Seats are limited so act fast!**
