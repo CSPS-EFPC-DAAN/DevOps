@@ -3,7 +3,7 @@
 # Welcome to CSPS Digital Academy - Premium
 ## Congratulations!
 
-You’ve been selected to participate in the first devops cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
+You’ve been selected to participate in the first DevOps cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
 ![Welcome on board weclome mat.](https://wiki.gccollab.ca/images/1/1f/John-schnobrich-520019-unsplash-min.jpg)
 
