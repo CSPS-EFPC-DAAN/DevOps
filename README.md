@@ -116,7 +116,7 @@ Should you have any questions, please contact us at the Digital Academy.
 # Bienvenue à l’Académie numérique de l’EFPC — Excellence
 ## Félicitations!
 
-Vous avez été choisi pour faire partie des premières cohortes de conception du programme **Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!**
+Vous avez été choisi pour faire partie des premières cohortes de développement et opérations (DevOps) du programme **Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!**
 
 
 ![Des doigts qui tapent sur un ordinateur portatif.](https://wiki.gccollab.ca/images/1/1f/John-schnobrich-520019-unsplash-min.jpg)
