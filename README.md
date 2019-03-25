@@ -168,8 +168,9 @@ Nous avons quelques dernières questions à vous poser avant le début de votre 
 
 1. Complétez votre [formulaire d'auto-évaluation de compétences](https://goo.gl/forms/2hBBgDMAAUZKlrwB2), un outil pour aider vos enseignants à mieux connaîtres vos compétences et objectifs d'apprentisage. 
 2. Nous prendrons des photos et des vidéos pendant l’expérience Excellence. Certaines photos pourront être utilisées pour les médias sociaux. Si vous y consentez, [veuillez nous le faire savoir en remplissant ce formulaire de consentement](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-3. Avez-vous des allergies (alimentaires, environnementales ou autres)? SVP nous aviser.
-4. Avez-vous besoin d'équipement ergonomique pendant les journées de formation ? N'hésitez pas à nous le faire savoir.
+3. Pendant vos neuf journées de formation, vous aurez besoin d'un ordinateur portable sur lequel on vous demandera d'installer une série de logiciels. L'Académie du numérique se fera un plaisir de vous prêter un ordinateur portable pour la durée de la formation ou vous pouvez choisir d'apporter votre propre ordinateur portable. Si vous souhaitez apporter le vôtre, veuillez noter qu'il doit s'agir d'un appareil hors réseau sur lequel vous avez tous les droits d'administration pour installer des  logiciels. Si vous souhaitez emprunter un ordinateur portable de l'Académie du numérique, veuillez en informer Cory Dignard à cory.dignard@canada.ca avant le 28 mars.
+4. Avez-vous des allergies (alimentaires, environnementales ou autres)? SVP nous aviser.
+5. Avez-vous besoin d'équipement ergonomique pendant les journées de formation ? N'hésitez pas à nous le faire savoir.
 
 **Veuillez m’envoyer votre manuel de l’apprenant, le formulaire de consentement, et nous aviser de toutes allergies ou besoins ergonomiques d'ici le 28 mars, 2019 à <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca>.**
 
