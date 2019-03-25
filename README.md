@@ -177,7 +177,7 @@ Nous avons quelques dernières questions à vous poser avant le début de votre 
 ## Matériel de cours préparatoire
 On s'attend à ce que vous fassiez de l'apprentissage préparatoire avant chaque cours. Le matériel préparatoire est disponible ci-dessous. Les présentations et ressources seront disponibles après chaque cours ici: [Répertoire DevOps Excellence - Académie du numérique ](https://github.com/CSPS-EFPC-DAAN/DevOps).
 
-| **Important**: Prior to your first class, you must configure your laptop with the required software which you will be using over the next 5 weeks. This assignment is part of your learning experience.  Please refer to the [DevOps Workstation Configuration Requirements](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) page for instructions.    |
+| **Important**: Avant votre premier cours, vous devez configurer votre ordinateur portable avec le logiciel requis que vous utiliserez au cours des 5 prochaines semaines. Cette affectation fait partie de votre expérience d'apprentissage. Veuillez consulter la page [DevOps Workstation Configuration Requirements](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) pour les instructions.    |
 | ------------------------------------------------------------------------------------------------------------------- |
 
 |Semaine | Sujet|Apprentissage préparatoire | Matériel de cours|
