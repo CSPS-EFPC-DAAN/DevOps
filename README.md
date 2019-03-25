@@ -139,7 +139,7 @@ Vous avez été choisi pour faire partie des premières cohortes de développeme
 
 * Semaine 2 - 10 & 11 avril: Introduction to Python
 * Semaine 3 - 17 & 18 avril: Azure Cloud
-* Semaine 4 - 25 & 26 avril:AWS Cloud
+* Semaine 4 - 25 & 26 avril: AWS Cloud
 * Semaine 5 - 1 & 2 mai: CI/CD & Tools
 
 **Veuillez prendre note que la présence à tous ces cours est obligatoire.**
