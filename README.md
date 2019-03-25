@@ -144,10 +144,10 @@ Vous avez été choisi pour faire partie des premières cohortes de conception d
 
 **Veuillez prendre note que la présence à tous ces cours est obligatoire.**
 
-En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Nous vous encourageons à vous inscrire à cette formation optionnelle
+En plus de vos cours, vous serez invité à une occasion d'apprentissage supplémentaire au moins une fois par mois. Nous vous encourageons à vous inscrire à cette formation optionnelle:
 
 #### Native Cloud Development: 29 & 30 avril
-Learn the fundamentals of Cloud Native Technology with a focus on Kubernetes and the CNCF Ecosystem in this optional 2 day classroom training for Premium learners.
+Apprenez les bases de la technologie Cloud Native en vous concentrant sur Kubernetes et l'écosystème CNCF dans cette formation optionnelle de 2 jours en classe pour les apprenants Premium.
 
 Pour vous inscrire, veuillez [compléter ce formulaire](https://forms.gle/8zLsZWpTQL51b1xC6). Places limitées, n'attendez pas!
 
@@ -162,7 +162,6 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 
 **REMARQUE** : Vous recevrez quelques courriels la semaine du 25 mars avec accès à Slack et GitHub ainsi que des vidéos pour vous aider à démarrer.
 
-Veuillez prendre note qu’il est **obligatoire de participer en classe.**
 ## Mesures à prendre
 
 Nous avons quelques dernières questions à vous poser avant le début de votre expérience Excellence :
