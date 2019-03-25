@@ -1,4 +1,4 @@
-*([le français suit](#bienvenue-à-lacadémie-numérique-de-lefpc--excellence))*
+*(le français suit)*
 
 # Welcome to CSPS Digital Academy - Premium
 ## Congratulations!
@@ -176,6 +176,10 @@ Nous avons quelques dernières questions à vous poser avant le début de votre 
 
 ## Matériel de cours préparatoire
 On s'attend à ce que vous fassiez de l'apprentissage préparatoire avant chaque cours. Le matériel préparatoire est disponible ci-dessous. Les présentations et ressources seront disponibles après chaque cours ici: [Répertoire DevOps Excellence - Académie du numérique ](https://github.com/CSPS-EFPC-DAAN/DevOps).
+
+| **Important**: Avant votre premier cours, vous devez configurer votre ordinateur portable avec le logiciel requis que vous utiliserez au cours des 5 prochaines semaines. Cette affectation fait partie de votre expérience d'apprentissage.
+ Veuillez consulter la page [DevOps Workstation Configuration Requirements](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/DevOps%20Workstation%20Configuration%20Requirements.md) pour les instructions.    |
+| ------------------------------------------------------------------------------------------------------------------- |
 
 |Semaine | Sujet|Apprentissage préparatoire | Matériel de cours|
 | ---- | ----------- |----------- |----------- |
