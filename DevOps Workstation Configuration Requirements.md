@@ -54,14 +54,14 @@ Nous pouvons vous fournir un ordinateur portatif HP EliteBook 830 G5, qui sera �
 *	Écran de 13 po
 
 Vous pouvez également utiliser votre propre ordinateur portatif, tant que vous avez tous les droits administratifs et qu’il est hors réseau (c’est-à-dire qu’il n’est pas connecté à aucun réseau du gouvernement du Canada). Il peut s’agit d’un appareil qui vous a été fourni par votre ministère ou encore d’un appareil personnel.
-Communiquez avec Cory Dignard pour nous informer de l’appareil que vous prévoyez utiliser à l’adresse [Cory.Dignard@canada.ca](mailto:cory.dignard@canada.ca) ou encore sur csps-efpc-daan.slack.com.
+Communiquez avec Cory Dignard pour nous informer de l’appareil que vous prévoyez utiliser à l’adresse [Cory.Dignard@canada.ca](mailto:cory.dignard@canada.ca) ou encore sur [csps-efpc-daan.slack.com](csps-efpc-daan.slack.com).
 
 
 ## Système d’exploitation
 Windows 10 Pro est préinstallé sur les ordinateurs portatifs HP que nous fournissons. Vous pouvez l’utiliser tel quel ou utiliser une image Linux comme Ubuntu (https://www.ubuntu.com/download/desktop). Si vous fournissez votre propre appareil, le SE peut être une variante Linux, Windows ou macOS.
 
 ## Logiciel
-Peu importe votre appareil ou votre SE, les logiciels suivants doivent être installés
+Peu importe votre appareil ou votre SE, les logiciels suivants doivent être installés (en anglais seulement)
 
 | Logiciel | Windows | Linux | macOS |
 | ------ | :------: | :------: | :------: |
