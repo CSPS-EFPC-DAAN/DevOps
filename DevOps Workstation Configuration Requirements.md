@@ -38,6 +38,12 @@ The following GitHub repo's from your very own GC colleages have scripts that ma
 - Linux: https://github.com/esdc-devx/dev-laptop
 - Mac: https://github.com/cds-snc/laptop
 - Windows: https://github.com/CSPS-EFPC-DAAN/Data-AI-Workstation-Config
+
+Fix Right Click Touchpad not working on Ubuntu 18.04: Run this command and follow instructions [here](https://itsfoss.com/fix-right-click-touchpad-ubuntu/)
+```sh
+sudo apt install gnome-tweaks
+```
+
 --------------------------------------------------
 
 # Exigences relatives à la configuration du poste de travail DevOps
@@ -79,4 +85,7 @@ Les dépôts GitHub suivants de vos propres collègues du GC contiennent des scr
 - Mac: https://github.com/cds-snc/laptop
 - Windows: https://github.com/CSPS-EFPC-DAAN/Data-AI-Workstation-Config
 
-
+Correction du Touchpad du clic droit ne fonctionnant pas sur Ubuntu 18.04 : Exécutez cette commande et suivez les instructions[ici](https://itsfoss.com/fix-right-click-touchpad-ubuntu/)
+```sh
+sudo apt install gnome-tweaks
+```
