@@ -96,6 +96,8 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 
 The practicum will take place Monday, **May 6 to Friday, May 24th**. The main goal of the practicum is to provide you with an opportunity to experience and demonstrate what you have learned through the program as a Premium  participant. You will do so by prototyping solutions to real-life problems, using a design thinking approach and Agile techniques, with support from coaches and facilitators. In addition to solidifying your learning and generating concrete solutions, we also hope to create a community of Digital Leaders and Practitioners who will spread their new knowledge, skills and digital mindset across government.
 
+To find out more, see the [Practicum FAQs](https://github.com/CSPS-EFPC-DAAN/Resources/blob/master/Practicum%20-%20FAQ%20All%20Participants.pdf) and the [Practicum Timeline](https://github.com/CSPS-EFPC-DAAN/Resources/blob/master/Practicum%20Visual%20Overview%20EN.pdf).
+
 ## Stay in Touch
 
 Keep up to date with Canada’s Digital Academy through:
@@ -213,6 +215,7 @@ L'objectif principal du stage est de vous donner l'occasion d'expérimenter et d
 Pour ce faire, vous prototyperez des solutions à des problèmes réels à l'aide d'une approche conceptuelle et de techniques Agiles, avec l'aide de coachs et d'animateurs.
 En plus de consolider votre apprentissage et de générer des solutions concrètes, nous espérons également créer une communauté de leaders et de praticiens du numérique qui diffuseront leurs nouvelles connaissances, compétences et mentalité numérique à travers le gouvernement.
 
+Pour plus d'information, consultez les [FAQs du stage](https://github.com/CSPS-EFPC-DAAN/Resources/blob/master/Practicum%20-%20FAQ%20All%20Participants.pdf) et le [calendrier sommaire du stage](https://github.com/CSPS-EFPC-DAAN/Resources/blob/master/Practicum%20Visual%20Overview%20EN.pdf). (En anglais - français à venir)
 ## Restez en contact
 
 Tenez-vous au courant de l’évolution de l’Académie du numérique du Canada par l’intermédiaire de :
