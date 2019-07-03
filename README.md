@@ -90,6 +90,9 @@ You are expected to do  preparatory learning prior to each class. Preparatory ma
 |3 | Azure Cloud     |  - Complete the [Introduction to Azure module](https://docs.microsoft.com/en-ca/learn/modules/welcome-to-azure/index) (35 minutes)   | [Getting Started With Azure](https://drive.google.com/a/da-an.ca/file/d/1wBTLRtm7Nc6AwCS1i_XM5P7zlxL5VzN6/view?usp=sharing)
 |4 | AWS Cloud   | 1. Register for a [free AWS Training account](https://www.aws.training/Account/LogOnOptions). <br/>  2. Watch this [AWS Introduction module](https://www.aws.training/learningobject/wbc?id=29699) (20 minutes)      |Coming soon...  
 |5| CI/CD & Tools     | 1. Take the following Course: [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) <br/> 2. Let us know your GitHub username in the DevOps Slack Channel   | [CI/CD Tools presentations](https://calvinrodo.github.io/cicdepresentations/) 
+|6| Automatic Accessibility Testing | Read: <br> [What is Accessibility Testing?](https://www.guru99.com/accessibility-testing.html)  | [Automatic Accessibility Testing](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/files/Automatic%20a11y%20testing.pptx)<br>
+|7| SSC Platform Strategy | | [SSC's Platform Strategy](https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/files/CSPS%20DAAN%20SSC%20Platform%20Strategy.pptx)
+|8| PSPC's Delivery Strategy | | [Faster Delivery While Lowering Risk]https://github.com/CSPS-EFPC-DAAN/DevOps/blob/master/files/CSPS%20DAAN%20SSC%20Platform%20Strategy.pptx)
 <!-- markdownlint-enable MD033-->
 
 ## Practicum
