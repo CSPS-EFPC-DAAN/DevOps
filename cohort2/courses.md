@@ -1,8 +1,11 @@
 ### Course Descriptions
 
 Course: Open Source Software
+
 Instructor: Guillaume Charest
+
 Teaching Assistant: Vivian Nobrega
+
 Course Learning Objectives:
 
 - GitFlow
