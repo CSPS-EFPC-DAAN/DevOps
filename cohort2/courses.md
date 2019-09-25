@@ -62,7 +62,7 @@ At the end of this module, you should be familiar with:
 
 Instructor: Ian Ward
 
-Teaching Assistants:
+Teaching Assistants: Patrick Heard
 
 Course Learning Objectives:
 
