@@ -56,3 +56,63 @@ At the end of this module, you should be familiar with:
 - Why you should be publishing from the get go your software project development.
 - The basics of community management
 - Automation of key practice elements
+
+
+## Course: Python
+
+Instructor: Ian Ward
+
+Teaching Assistants:
+
+Course Learning Objectives:
+
+### Module 1: The Interpeter, Numeric Types
+
+- exercise: create a simple Python script
+- coding style
+- variables: names and values
+- numeric types
+- exercuse: using Python as a calculator
+
+### Module 2: Strings and Container Types
+
+- strings
+- lists
+- exercise: word extraction
+- tuple, dict and set
+- string formatting
+- exercise: git log processing
+
+### Module 3: Control structures, Functions
+
+- if, elif and else
+- comparisons, boolean operations
+- for, break, continue and else
+- try, except, else and finally
+- functions and function parameters
+- packing and unpacking
+- exercise: shopping list
+
+### Module 4: Decorators, Generators and Classes
+
+- decorators
+- iteration
+- generators
+- classes and attributes
+- special methods
+- properties
+- exercise: course registration
+
+### Module 5: Custom Containers, Subclasses and MRO
+
+- custom containers
+- subclasses, staticmethod, classmethod
+- multiple inheritance and MRO
+- exercise: course registration 2
+
+### Module 6: Python Packages
+
+- virtual environments (virtualenv/venv)
+- modules and packages
+- custom exceptions
+- exercise: create a Python package
