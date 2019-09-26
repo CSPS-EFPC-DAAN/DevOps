@@ -1,5 +1,11 @@
 # DevOps Stream Courses Descriptions
 
+
+## Panel: DevOps Culture and Practices
+
+Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Calvin Rodo (Fellow, Digital Academy), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), <Someone from ISED?>, <Someone from Red Hat?>
+
+
 ## Course: Open Source Software (OSS)
 
 Instructor: Guillaume Charest
