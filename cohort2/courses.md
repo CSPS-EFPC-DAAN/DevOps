@@ -116,3 +116,25 @@ Course Learning Objectives:
 - modules and packages
 - custom exceptions
 - exercise: create a Python package
+
+
+## Course: DevSecOps Workshop - Secure Software Factory
+
+- Lab 01 - Welcome to OpenShift
+- Lab 02 - Trusted Software Supply Chain
+- Lab 03 - CI/CD Project and Pods
+- Lab 04 - Jenkins and OpenShift
+- Lab 05 - Creating Your Pipeline
+- Lab 06 - Build App Stage
+- Lab 07 - Test Stage
+- Lab 08 - Static Application Security Testing
+- Lab 09 - Archive App
+- Lab 10 - Create Image Builder
+- Lab 11 - Build Image
+- Lab 12 - Create and Deploy to Dev
+- Lab 13 - Promote and Deploy to Stage
+- Lab 14 - Run Pipeline
+- Lab 15 - Trigger the Software Supply Chain
+- Lab 16 - Create Quay Account
+- Lab 17 - Clair Vulnerability Scan
+- Lab 18 - OpenSCAP DISA STIG Scan
