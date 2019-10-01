@@ -3,8 +3,9 @@
 
 ## Panel: DevOps Culture and Practices
 
-Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Calvin Rodo (Fellow, Digital Academy), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), <Someone from ISED?>, <Someone from Red Hat?>
+Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat)
 
+Moderator: Scott Levac (Director, TBS)
 
 ## Course: Open Source Software (OSS)
 
@@ -144,3 +145,7 @@ Course Learning Objectives:
 - Lab 16 - Create Quay Account
 - Lab 17 - Clair Vulnerability Scan
 - Lab 18 - OpenSCAP DISA STIG Scan
+
+For complete details http://redhatgov.io/workshops/secure_software_factory/
+
+
