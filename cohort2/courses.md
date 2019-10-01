@@ -1,9 +1,9 @@
 ## DevOps Stream Courses Descriptions
 
 
-### Panel: DevOps Culture and Practices
+#### Panel: DevOps Culture and Practices
 
-### Date: November 5, 10AM
+#### Date: November 5, 10AM
 
 Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat)
 
