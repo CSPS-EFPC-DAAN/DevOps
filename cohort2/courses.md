@@ -181,5 +181,5 @@ TENTATIVE course outline:
 
 ## Course: Cloud Native Development
 #### Date: December 17/18
-
+#### Instructors: Will Hearn, Zach Seguin
 
