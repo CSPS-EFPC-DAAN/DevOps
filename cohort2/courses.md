@@ -82,10 +82,7 @@ At the end of this module, you should be familiar with:
 ## Date: November 19/20
 #### Course: Python
 #### Instructor: Ian Ward
-
-Teaching Assistants: Patrick Heard
-
-Course Learning Objectives:
+#### TA: Patrick Heard
 
 ### Module 1: The Interpeter, Numeric Types
 
