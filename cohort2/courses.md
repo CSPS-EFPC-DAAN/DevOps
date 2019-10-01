@@ -3,16 +3,28 @@
 
 ## Panel: DevOps Culture and Practices
 
-November 5, 10AM
+## Date: November 5, 10AM
 
 Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat)
 
 Moderator: Scott Levac (Director, TBS)
 
+## Course: Intro to Docker
+## Date: November 6
+## Instructor: Max Neuvians
+## TA: Pat Heard?
+
+- Intro to Docker
+- What _is_ docker?
+- Dockerfiles
+- Running your first container
+- Command docker cli commands
+- Clean up old containers/images
+- Ports, services
+- Docker Compose
 
 ## Course: Open Source Software (OSS)
-
-Instructor: Guillaume Charest
+## Date: November 12/13
 
 Teaching Assistants:
 
@@ -20,6 +32,8 @@ Teaching Assistants:
 - Nick Schonning
 
 Course Learning Objectives:
+
+
 
 ### Module 0: Git
 
@@ -68,6 +82,7 @@ At the end of this module, you should be familiar with:
 - Automation of key practice elements
 
 
+## Date: November 19/20
 ## Course: Python
 
 Instructor: Ian Ward
@@ -129,6 +144,7 @@ Course Learning Objectives:
 
 
 ## Course: DevSecOps Workshop - Secure Software Factory
+## Date: November 26/27
 
 - Lab 01 - Welcome to OpenShift
 - Lab 02 - Trusted Software Supply Chain
@@ -150,5 +166,21 @@ Course Learning Objectives:
 - Lab 18 - OpenSCAP DISA STIG Scan
 
 For complete details http://redhatgov.io/workshops/secure_software_factory/
+
+## Course: Security 
+## Date: December 3/4
+
+TENTATIVE course outline:
+
+- Overview of TBS Security Policy
+- Examples of implementing TBS security policy in code
+- How to run a security incident response
+- Security and Open Source
+
+## Course: Managing APIs and Microservices
+## Date: December 10/11
+
+## Course: Cloud Native Development
+## Date: December 17/18
 
 
