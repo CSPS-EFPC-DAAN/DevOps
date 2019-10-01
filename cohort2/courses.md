@@ -140,7 +140,8 @@ Course Learning Objectives:
 
 
 ## Course: DevSecOps Workshop - Secure Software Factory
-## Date: November 26/27
+#### Date: November 26/27
+#### Instructor: Andrew Pitt (Red Hat)
 
 - Lab 01 - Welcome to OpenShift
 - Lab 02 - Trusted Software Supply Chain
