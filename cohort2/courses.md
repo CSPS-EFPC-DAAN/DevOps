@@ -10,9 +10,9 @@ Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Devel
 Moderator: Scott Levac (Director, TBS)
 
 ## Course: Intro to Docker
-### Date: November 6
-### Instructor: Max Neuvians
-### TA: Pat Heard?
+#### Date: November 6
+#### Instructor: Max Neuvians
+#### TA: Pat Heard?
 
 - Intro to Docker
 - What _is_ docker?
@@ -24,12 +24,9 @@ Moderator: Scott Levac (Director, TBS)
 - Docker Compose
 
 ## Course: Open Source Software (OSS)
-## Date: November 12/13
-
-Teaching Assistants:
-
-- Vivian Nobrega
-- Nick Schonning
+#### Date: November 12/13
+#### Instructor: Guillaume Charest
+#### TAs: Vivian Nobrega, Nick Schonning
 
 Course Learning Objectives:
 
@@ -83,9 +80,8 @@ At the end of this module, you should be familiar with:
 
 
 ## Date: November 19/20
-## Course: Python
-
-Instructor: Ian Ward
+#### Course: Python
+#### Instructor: Ian Ward
 
 Teaching Assistants: Patrick Heard
 
@@ -168,8 +164,8 @@ Course Learning Objectives:
 For complete details http://redhatgov.io/workshops/secure_software_factory/
 
 ## Course: Security 
-## Date: December 3/4
-
+#### Date: December 3/4
+#### Instructor: John O'Brien, Po Tea-Duncan, Maltais Bernard (tentative)
 TENTATIVE course outline:
 
 - Overview of TBS Security Policy
@@ -178,9 +174,11 @@ TENTATIVE course outline:
 - Security and Open Source
 
 ## Course: Managing APIs and Microservices
-## Date: December 10/11
+#### Date: December 10/11
+#### Instructor: Patrick Heroux
+#### TA: Calvin Rodo
 
 ## Course: Cloud Native Development
-## Date: December 17/18
+#### Date: December 17/18
 
 
