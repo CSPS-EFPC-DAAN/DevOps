@@ -3,9 +3,12 @@
 
 ## Panel: DevOps Culture and Practices
 
+November 5, 10AM
+
 Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat)
 
 Moderator: Scott Levac (Director, TBS)
+
 
 ## Course: Open Source Software (OSS)
 
