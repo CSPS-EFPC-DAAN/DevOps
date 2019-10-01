@@ -3,16 +3,16 @@
 
 ## Panel: DevOps Culture and Practices
 
-## Date: November 5, 10AM
+# Date: November 5, 10AM
 
 Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes (Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat)
 
 Moderator: Scott Levac (Director, TBS)
 
 ## Course: Intro to Docker
-## Date: November 6
-## Instructor: Max Neuvians
-## TA: Pat Heard?
+### Date: November 6
+### Instructor: Max Neuvians
+### TA: Pat Heard?
 
 - Intro to Docker
 - What _is_ docker?
