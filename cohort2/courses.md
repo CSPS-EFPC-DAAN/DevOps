@@ -79,8 +79,8 @@ At the end of this module, you should be familiar with:
 - Automation of key practice elements
 
 
-## Date: November 19/20
-#### Course: Python
+## Course: Python
+#### Date: November 19/20
 #### Instructor: Ian Ward
 #### TA: Patrick Heard
 
