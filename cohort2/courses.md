@@ -163,13 +163,13 @@ For complete details http://redhatgov.io/workshops/secure_software_factory/
 
 ## Course: Security 
 #### Date: December 3AM ONLY 4AM/PM
-#### Instructor: John O'Brien, Po Tea-Duncan Tentative: Bernard Maltais, Jeff Barnes 
-TENTATIVE course outline:
+#### Instructor: John O'Brien, Po Tea-Duncan, Jeff Barnes 
 
-- Overview of TBS Security Policy
-- Examples of implementing TBS security policy in code
-- How to run a security incident response
-- Security and Open Source
+Tentative/Highlevel overview....
+
+- Develop securely
+- Operate securely 
+- Security response
 
 ## Course: Managing APIs and Microservices
 #### Date: December 10AM / 11AM/PM
