@@ -199,7 +199,7 @@ TENTATIVE course outline:
   - Publication of your service
   - Registration service
   - Authentication
-  - Throlling
+  - Throttling
   
 
 ## Course: Cloud Native Development
