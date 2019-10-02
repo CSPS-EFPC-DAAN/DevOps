@@ -163,7 +163,7 @@ For complete details http://redhatgov.io/workshops/secure_software_factory/
 
 ## Course: Security 
 #### Date: December 3/4
-#### Instructor: John O'Brien, Po Tea-Duncan, Maltais Bernard (tentative)
+#### Instructor: John O'Brien, Po Tea-Duncan Tentative: Bernard Maltais, Jeff Barnes 
 TENTATIVE course outline:
 
 - Overview of TBS Security Policy
@@ -175,6 +175,32 @@ TENTATIVE course outline:
 #### Date: December 10/11
 #### Instructor: Patrick Heroux
 #### TA: Calvin Rodo
+
+- Compare API to traditional WS
+ - SOAP vs REST
+ - XML vs JSON
+ - Entities vs Resources
+ - WS Operation (GetClient, GetClientLists, Update Client...) vs REST verbs (get, post etc.)
+ - Microservices
+   - What are they
+   - How to design them
+   - How to test them
+ - Advantages
+   - Small
+   - Easy to build, test, change
+   - Specific focus
+- GC API Store
+  - What is it
+  - Where is it hosted
+  - How it works
+  - 3scale API Cast
+  - API Hosted on-prem or cloud
+- What it gives you
+  - Publication of your service
+  - Registration service
+  - Authentication
+  - Throlling
+  
 
 ## Course: Cloud Native Development
 #### Date: December 17/18
