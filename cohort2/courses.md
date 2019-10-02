@@ -24,7 +24,7 @@ Moderator: Scott Levac (Director, TBS)
 - Docker Compose
 
 ## Course: Open Source Software (OSS)
-#### Date: November 12/13
+#### Date: November 12AM/PM 13AM ONLY
 #### Instructor: Guillaume Charest
 #### TAs: Vivian Nobrega, Nick Schonning
 
@@ -80,7 +80,7 @@ At the end of this module, you should be familiar with:
 
 
 ## Course: Python
-#### Date: November 19/20
+#### Date: November 19AM/PM 20AM/PM
 #### Instructor: Ian Ward
 #### TA: Patrick Heard
 
@@ -137,7 +137,7 @@ At the end of this module, you should be familiar with:
 
 
 ## Course: DevSecOps Workshop - Secure Software Factory
-#### Date: November 26/27
+#### Date: November 26AM 27AM/PM
 #### Instructor: Andrew Pitt (Red Hat)
 
 - Lab 01 - Welcome to OpenShift
@@ -162,7 +162,7 @@ At the end of this module, you should be familiar with:
 For complete details http://redhatgov.io/workshops/secure_software_factory/
 
 ## Course: Security 
-#### Date: December 3/4
+#### Date: December 3AM ONLY 4AM/PM
 #### Instructor: John O'Brien, Po Tea-Duncan Tentative: Bernard Maltais, Jeff Barnes 
 TENTATIVE course outline:
 
@@ -172,7 +172,7 @@ TENTATIVE course outline:
 - Security and Open Source
 
 ## Course: Managing APIs and Microservices
-#### Date: December 10/11
+#### Date: December 10AM / 11AM/PM
 #### Instructor: Patrick Heroux
 #### TA: Calvin Rodo
 
@@ -203,6 +203,6 @@ TENTATIVE course outline:
   
 
 ## Course: Cloud Native Development
-#### Date: December 17/18
+#### Date: December 17AM ONlY 18AM/PM
 #### Instructors: Will Hearn, Zach Seguin
 
