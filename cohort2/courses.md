@@ -11,8 +11,8 @@ Moderator: Scott Levac (Director, TBS)
 
 ## Course: Intro to Docker
 #### Date: November 6
-#### Instructor: Max Neuvians
-#### TA: Pat Heard?
+#### Instructor: Max Neuvians, Cal Rodo
+#### TA: Jeff Barnes
 
 - Intro to Docker
 - What _is_ docker?
@@ -26,7 +26,7 @@ Moderator: Scott Levac (Director, TBS)
 ## Course: Open Source Software (OSS)
 #### Date: November 12AM/PM 13AM ONLY
 #### Instructor: Guillaume Charest
-#### TAs: Vivian Nobrega, Nick Schonning
+#### TAs: Pat Heard
 
 Course Learning Objectives:
 
