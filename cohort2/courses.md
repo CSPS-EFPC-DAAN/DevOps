@@ -5,7 +5,7 @@
 
 #### Date: November 5, 10AM
 
-Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes via Zoom (A/Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat)
+Panelists:  Britt Hurley (Manager, Digital Task Force, SSC), Max Neuvians (Developer, CDS), Jeff Barnes via Zoom (A/Director, Cloud Centre of Excellence, SSC), Andrew Pitt (Solutions Architect, Red Hat), Calvin Rodo (Fellow, Digital Academy)
 
 Moderator: Scott Levac (Director, TBS)
 
