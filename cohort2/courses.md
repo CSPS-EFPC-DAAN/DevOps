@@ -16,16 +16,10 @@ Moderator: Scott Levac (Director, TBS)
 
 Morning 30-45 minute presentation.
 
-Remaining of the day will be a hands-on workshop.
+Remaining of the day will be a hands-on workshop:
 
-- Intro to Docker
-- What _is_ docker?
-- Dockerfiles
-- Running your first container
-- Command docker cli commands
-- Clean up old containers/images
-- Ports, services
-- Docker Compose
+https://www.katacoda.com/sylus/courses/container-basics
+
 
 ## Course: Open Source Software (OSS)
 #### Date: November 12AM/PM 13AM ONLY
