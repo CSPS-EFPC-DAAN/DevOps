@@ -14,6 +14,10 @@ Moderator: Scott Levac (Director, TBS)
 #### Instructor: Max Neuvians, Cal Rodo
 #### TA: Jeff Barnes
 
+Morning 30-45 minute presentation.
+
+Remaining of the day will be a hands-on workshop.
+
 - Intro to Docker
 - What _is_ docker?
 - Dockerfiles
