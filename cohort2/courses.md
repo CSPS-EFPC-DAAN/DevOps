@@ -134,8 +134,19 @@ At the end of this module, you should be familiar with:
 - exercise: create a Python package
 
 
+
+## Course: Security 
+#### Date: Nov 26AM  / Nov 27 AM / PM 
+#### Instructor: John O'Brien, Po Tea-Duncan, Jeff Barnes 
+
+Tentative/Highlevel overview....
+
+- Develop securely
+- Operate securely 
+- Security response
+
 ## Course: DevSecOps Workshop - Secure Software Factory
-#### Date: November 26AM 27AM/PM
+#### Date: December 3AM - 4 AM / PM
 #### Instructor: Andrew Pitt (Red Hat)
 
 - Lab 01 - Welcome to OpenShift
@@ -159,15 +170,6 @@ At the end of this module, you should be familiar with:
 
 For complete details http://redhatgov.io/workshops/secure_software_factory/
 
-## Course: Security 
-#### Date: December 3AM ONLY 4AM/PM
-#### Instructor: John O'Brien, Po Tea-Duncan, Jeff Barnes 
-
-Tentative/Highlevel overview....
-
-- Develop securely
-- Operate securely 
-- Security response
 
 ## Course: Managing APIs and Microservices
 #### Date: December 10AM / 11AM/PM
